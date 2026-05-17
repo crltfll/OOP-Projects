@@ -1,3 +1,3 @@
-### This repository hosts some of my well-made from scratch projects as part of my ocmpletion under the programming courses of De La Salle University - Manila.
+### This repository hosts some of my well-made projects made from scratch as part of my completion under the programming courses of De La Salle University - Manila.
 
 Specifically, this will contain code for the CPA2 course, where most projects are done by scratch, alongside another project done in CPEI.
